@@ -1,4 +1,4 @@
-package com.oocl.cultivation;
+package com.afs.tdd;
 
 public class Application {
 }
